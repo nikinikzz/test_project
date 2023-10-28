@@ -23,7 +23,7 @@
                         <table id="example" class="display" style="width:100%">
                             <thead>
                                 <tr>
-                                    <th>Name</th>
+                                    <th>Name1</th>
                                     <th>Contact No</th>
                                     <th>Category</th>
                                     <th>Hobbies</th>
