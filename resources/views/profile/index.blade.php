@@ -19,11 +19,12 @@
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                             </svg>
                             {{ __('Add New') }}
+                            <br>
                         </a>
                         <table id="example" class="display" style="width:100%">
                             <thead>
                                 <tr>
-                                    <th>Name1</th>
+                                    <th>Name</th>
                                     <th>Contact No</th>
                                     <th>Category</th>
                                     <th>Hobbies</th>
