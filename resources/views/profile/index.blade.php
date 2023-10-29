@@ -30,6 +30,7 @@
                                     <th>Hobbies</th>
                                     <th>Profile Picture</th>
                                     <th>Action</th>
+                                    <th>Action2</th>
                                 </tr>
                             </thead>
                             <tbody>
